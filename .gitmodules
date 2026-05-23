@@ -1,0 +1,6 @@
+[submodule "kicad/footprints/marbastlib"]
+	path = kicad/footprints/marbastlib
+	url = https://github.com/ebastler/marbastlib.git
+[submodule "kicad/footprints/keyswitches"]
+	path = kicad/footprints/keyswitches
+	url = https://github.com/daprice/keyswitches.pretty.git

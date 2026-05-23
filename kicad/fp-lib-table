@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "proj-keyswitches")(type "KiCad")(uri "${KIPRJMOD}/footprints/keyswitches")(options "")(descr ""))
+  (lib (name "proj-marbastlib")(type "KiCad")(uri "${KIPRJMOD}/footprints/marbastlib")(options "")(descr ""))
+)
