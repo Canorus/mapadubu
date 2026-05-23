@@ -19,13 +19,15 @@
 # xiao ble 납땜
 
 1. xiao ble를 정위치에 놓고 테이프로 고정
-![](./images/alignJPG)
+![](./images/align.JPG)
 
 2. 후면 배터리핀과 RESET, GND 핀 납땜
 ![](./images/soldered_topview.JPG)
 
 3. 테이프 제거하고 나머지 핀 납땜 
 ![](./images/xiao_soldered.JPG)
+
+4. 점퍼 납땜
 
 # 케이스 조립
 
