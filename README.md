@@ -18,6 +18,8 @@ As owner of original design mentioned, this semi-staggered layout may is in need
 |필수|||
 | 1N4148 다이오드 | 38 | https://ko.aliexpress.com/item/1005003423342580.html |
 | 스위치 | 38 |  |
+| 키캡 | 38 | |
+| Kailh LP 핫스왑 소켓 | 38 | https://ko.aliexpress.com/item/1005009105120024.html |
 | 인서트 너트(M2) | 20 | https://ko.aliexpress.com/item/1005008570811171.html |
 | 스탠드오프(M2, 4mm) | 12 | https://ko.aliexpress.com/item/1005006149754236.html|
 | 스크류(M2) | 8 |  |
@@ -28,6 +30,11 @@ As owner of original design mentioned, this semi-staggered layout may is in need
 | WS2812B mini LED | 2 | https://ko.aliexpress.com/item/4000475685852.html |
 | resistor 330zR | 2 | https://ko.aliexpress.com/item/1005001436966579.html |
 | capacitor 1µF | 2 | https://ko.aliexpress.com/item/32966490820.html |
+| LiPo배터리(301230) | 2 | |
+
+* 스위치는 본인의 취향에 따라 주문하되, Kailh 사의 Choc 버전을 구입하여야 합니다.
+* 핫스왑 소켓에 V1, V2가 모두 호환되지만 스위치-키캡 은 V1과 V2가 호환되지 않습니다. 스위치를 V1을 구입한 경우 V1용 키캡만 쓸 수 있고, V2 스위치는 V2 키캡만 쓸 수 있습니다.
+* 대표 사진의 키캡은 [이 제품](https://ko.aliexpress.com/item/1005009888904698.html) 이며 그냥 대충 검색해서 구입한 겁니다.
 
 # 빌드 가이드
 
